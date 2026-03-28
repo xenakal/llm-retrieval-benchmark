@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(dotnet new:*)",
+      "Bash(dotnet sln:*)",
+      "Bash(dotnet add:*)",
+      "Bash(mkdir -p data/corpus/documents data/eval reports)",
+      "Bash(rm src/RetrievalBenchmark.Core/Class1.cs src/RetrievalBenchmark.Evaluation/Class1.cs src/RetrievalBenchmark.Backends/Class1.cs)",
+      "Bash(dotnet build:*)",
+      "Bash(dotnet test:*)"
+    ]
+  }
+}

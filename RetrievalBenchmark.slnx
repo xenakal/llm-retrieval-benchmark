@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/RetrievalBenchmark.Backends.Tests/RetrievalBenchmark.Backends.Tests.csproj" />
+    <Project Path="src/RetrievalBenchmark.Backends/RetrievalBenchmark.Backends.csproj" />
+    <Project Path="src/RetrievalBenchmark.Cli/RetrievalBenchmark.Cli.csproj" />
+    <Project Path="src/RetrievalBenchmark.Core/RetrievalBenchmark.Core.csproj" />
+    <Project Path="src/RetrievalBenchmark.Evaluation.Tests/RetrievalBenchmark.Evaluation.Tests.csproj" />
+    <Project Path="src/RetrievalBenchmark.Evaluation/RetrievalBenchmark.Evaluation.csproj" />
+  </Folder>
+</Solution>
