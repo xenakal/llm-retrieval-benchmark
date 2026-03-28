@@ -4,6 +4,10 @@
     <ProjectReference Include="..\RetrievalBenchmark.Core\RetrievalBenchmark.Core.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Azure.Search.Documents" Version="11.7.0" />
+  </ItemGroup>
+
   <PropertyGroup>
     <TargetFramework>net10.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
